@@ -74,7 +74,6 @@
   downspace: paras.wspace + 0.6em, // 一级标题距离下边距
   image: true, // 一级标题页头图（推荐图片尺寸：页面宽度 x 页面高度*0.3）
   part: false, // 部分页是否影响章节计数
-  appendix: true, // 附录独立计数器
   index: false, // 正文公式图像表格统一计数
   text: (
     size: 18pt, // 一级标题字号
