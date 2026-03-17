@@ -30,5 +30,5 @@
 #include "content/ca1.typ"
 
 #appendix[
-  #my-bibliography(bibliography("./refs.bib"))
+  #my-bibliography(bibliography("../template/refs.bib"))
 ] // 附录环境
